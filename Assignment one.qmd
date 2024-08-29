@@ -1,0 +1,56 @@
+# **Assignment one - Reliability and tools for reproducible data science**
+
+The purpose of this assignment is to present estimates of reliability of measures collected in the physiology lab. A second purpose is to use tools for reproducible data science. The report that you are expected to hand in therefore has some strict requirements in its format (see below). The assignment is a group assignment and at least three students are expected to contribute to each report.
+
+## *Elements of the report*
+
+The report should describe one test that you have performed in the physiology-lab. Select the test that is most interesting to you. The test should be described with a detailed protocol, including preparations of the participant (that is being tested), standardization of the test, and post-test data preparation. Post-test data preparation refers to steps needed to get data from e.g. equipment used during the test. This section should take into account and reference (Halperin, Pyne, and Martin 2015; Tanner and Gore 2012)
+
+## **Protocol for vo2max test**
+
+### **Preparations before the test**
+- Gjennomfør samme type trening dagen før test 
+- Standardiser siste måltid før test (frokost) 
+- Innta normal mengde (for deg) med koffein før test 
+- Unngå alkohol/nikotin/tobakk siste 72t før test 
+
+### **Workflow**
+
+1. Skru på BIOSEN
+2. Finne frem slange
+3. Starte kalibrering (gass) av Vyntus
+4. Skru sammen munnstykke mens kalibrering pågår
+5. Ta volumkalibrering (Vyntus)
+6. Ta vekt på personen
+7. Legg inn deltagerprofil på LODE
+8. Stille inn sykkel og montere riktige pedaler
+9. Zeroing av Vyntus
+
+
+
+### **Test protocol**
+
+Vyntus (Jaeger Vyntus CPX, Hoechberg, Tyskland) kalibreres før test, og brukes til å måle oksygenopptak. Gassanalysator kalibreres til < 2,0% differanse og luftvolum kalibreres til < 0,2% differanse. Zeroing gjøres også alltid før test starter. Syklistene veies med de klærne de skal sykle med, og 0,3kg trekkes fra.  
+  
+Sykkeltesten gjennomføres på en ergometersykkel med bukkestyre (Lode Excalibur Sport; Lode B.V., Groningen, Nederland). Kranken kalibreres på Lode sykkelen før hver teststart, og sykkel stilles inn etter utøver sitt ønske ved første test og stilles inn til den samme sittestillingen påfølgende tester. 
+  
+Test av det maksimale oksygenopptaket (VO2maks) gjennomføres etter 5 min standarisert oppvarming 2min på 11-12 i Borg, deretter 2 min på 15 i Borg før 1 min på 11-12 i Borg. Testen starter på en watt bestemt utfra deltagerens nivå i samråd med deltager og testleder. Det viktigste er at videre tester starter på samme watt. Det er individuelt om testen øker med 20W eller 25W hvert minutt frem til utmattelse. Testleder gjør verbal oppmuntring og sekundering. Oksygenmålinger hvert 30 sek, og snittet av de to høyeste etterfølgende målingene er det som brukes som det maksimale oksygenopptaket. Deltager er på forhånd informert om at testen stopper når kadens er under 60 rpm. Umiddelbart ved utmattelse blir deltaker spurt om Borg skala. Ett minutt etter endt VO2maks-test stikker vi på fingertupp og måler [bLa-]. 
+
+
+
+
+
+
+
+
+
+
+The next section should contain descriptive data from the test. This could be measures of central tendency and variability in the measures you have collected. If possible, try to find similar estimates in the scientific literature.
+
+Finally, we are interested in reliability. Here you need to calculate an estimate of reliability of the test. Use (and reference) (Hopkins 2000). Try to be clear with what measure of reliability you are using and what it is telling you.
+
+### Importantly, the report should contain:
+- At least one table (created from your data)
+- At least one figure (created from your data), and
+- data presented in the text.
+- The report should use a bibliography file to manage references.
