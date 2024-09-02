@@ -54,3 +54,21 @@ Finally, we are interested in reliability. Here you need to calculate an estimat
 - At least one figure (created from your data), and
 - data presented in the text.
 - The report should use a bibliography file to manage references.
+
+
+```{r}
+#| message: false
+
+library(tidyverse)
+library(gt)
+
+```
+
+## Innlasting av data
+
+```{r}
+
+
+
+```
+
